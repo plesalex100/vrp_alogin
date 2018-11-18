@@ -11,5 +11,5 @@ server_scripts {
 
 dependencies {
 	'vrp',
-	'pNotify'
+	'vrp_mysql'
 }
