@@ -4,6 +4,8 @@ This resource create an login system for every staff member.
 
 More information commented in `server.lua` file
 
+Don't forget to change default password in `server.lua`
+
 Commands
 -
 
